@@ -1,5 +1,28 @@
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Courier+new&color=%23808080&size=40&width=800&duration=6969&lines=HEY+WELCOME!)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Courier+new&color=%23808080&size=30&width=1000&duration=6969&lines=HEY+WELCOME+I'm+TMCyber!)](https://git.io/typing-svg)
+
+<p align="center">
+  <img width="92" src="<a href="https://www.freepnglogos.com/pics/linux" title=""><img src="https://www.freepnglogos.com/uploads/linux-png/compiling-the-linux-kernel-ubuntu-ultimatepeterm-31.png" width="200" alt="compiling the linux kernel ubuntu ultimatepeterm"/></a>
+</p>  
+<h2 align="center"> </h2>
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?multiline=true&width=700&lines=FULL-STACK+WEB+AND+APP+DEVELOPER+JR++++++++++)](https://git.io/typing-svg)
+
+
+[![Website](https://img.shields.io/badge/-BLOG-yellowgreen?style=for-the-badge&logo=WORDPRESS)](https://www.tmcybers.com/)
+[![Website](https://img.shields.io/badge/-MEDIUM-orange?style=for-the-badge&logo=MEDIUM)](https://medium.com/@tmcybers)
+[![Website](https://img.shields.io/badge/-TWITTER-yellow?style=for-the-badge&logo=TWITTER)](https://twitter.com/TMerisan)
+[![Website](https://img.shields.io/badge/-KEYBASE-red?style=for-the-badge&logo=KEYBASE)](https://keybase.io/tmcybers)
+[![Website](https://img.shields.io/badge/-WAKATIME-lightgrey?style=for-the-badge&logo=WAKATIME)](https://wakatime.com/@tmcyber)
+[![Website](https://img.shields.io/badge/-KO--FI-blue?style=for-the-badge&logo=KO-FI)](https://ko-fi.com/tmcyber)
+[![Website](https://img.shields.io/badge/-BUY%20MY%20SERVICES-orange?style=for-the-badge&logo=COFFEE)](https://github.com/sponsors/tmcybers)
+
+
+
+
+
+
+
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?multiline=true&width=500&lines=PROJECT+IS+UNDER+DEVELOPMENT++++++++++)](https://git.io/typing-svg)
 
@@ -13,7 +36,9 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?multiline=true&width=500&lines=I'll+give+credits+to+all+who+help++++++++++)](https://git.io/typing-svg)
 
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Courier+new&color=%23808080&size=40&width=800&duration=6969&lines=All+my+projects+are+open+source!)](https://git.io/typing-svg)
+
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Courier+new&color=%23808080&size=30&width=1000&duration=6969&lines=All+my+projects+are+open+source!)](https://git.io/typing-svg)
 
 
 
