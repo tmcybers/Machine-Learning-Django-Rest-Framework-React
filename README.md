@@ -1,3 +1,41 @@
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Courier+new&color=%23808080&size=40&width=800&duration=6969&lines=HEY+WELCOME!)](https://git.io/typing-svg)
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?multiline=true&width=500&lines=PROJECT+IS+UNDER+DEVELOPMENT++++++++++)](https://git.io/typing-svg)
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?multiline=true&width=500&lines=I'm+Working+on+it+passively+whenever+i+can++++++++++)](https://git.io/typing-svg)
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?multiline=true&width=500&lines=The+Project+is+free+and+published+entirely++++++++++)](https://git.io/typing-svg)
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?multiline=true&width=500&lines=Feel+free+to+contribute++++++++++)](https://git.io/typing-svg)
+
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?multiline=true&width=500&lines=I'll+give+credits+to+all+who+help++++++++++)](https://git.io/typing-svg)
+
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Courier+new&color=%23808080&size=40&width=800&duration=6969&lines=All+my+projects+are+open+source!)](https://git.io/typing-svg)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
