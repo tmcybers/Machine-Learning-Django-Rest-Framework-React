@@ -33,7 +33,7 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?multiline=true&width=500&lines=Feel+free+to+contribute++++++++++)](https://git.io/typing-svg)
 
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?multiline=true&width=500&lines=I'll+give+credits+to+all+who+help++++++++++)](https://git.io/typing-svg)
+
 
 
 
